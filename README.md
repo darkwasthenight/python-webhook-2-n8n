@@ -1,4 +1,4 @@
-# python-webhook-2-n8n
+# Skateshop-webhook-2-n8n
 
 Webhook URL:
 Update the $n8nWebhookUrl variable with the actual URL of your n8n webhook (as configured in your n8n workflow).
